@@ -1,0 +1,25 @@
+{
+  "name": "node-process-end-handler",
+  "version": "1.0.0",
+  "description": "add/run process before the node intentionally/unintentionally ended",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TMJPEngineering/node-process-end-handler.git"
+  },
+  "keywords": [
+    "process-end",
+    "node-process-end",
+    "process-handler",
+    "process-end-handler"
+  ],
+  "author": "Rej Mediodia, TMJP ENGINEERING",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TMJPEngineering/node-process-end-handler/issues"
+  },
+  "homepage": "https://github.com/TMJPEngineering/node-process-end-handler#readme"
+}
