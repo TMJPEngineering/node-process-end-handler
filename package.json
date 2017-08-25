@@ -1,6 +1,6 @@
 {
   "name": "node-process-end-handler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "add/run process before the node intentionally/unintentionally ended",
   "main": "index.js",
   "scripts": {

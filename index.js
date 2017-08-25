@@ -23,9 +23,9 @@ function ProcessEndHandler() {
         callbacks.push(callback);
     }
 
-    function runCallbacks() {
+    function runCallbacks(err) {
         for (var key in callbacks) {
-            callbacks[key]();
+            callbacks[key](err);
         }
     }
 
